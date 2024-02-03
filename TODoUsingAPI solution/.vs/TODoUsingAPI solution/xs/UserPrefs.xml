@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D016F20C-BA5F-448F-8B03-E21F53CC89D5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TODoUsingAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TODoUsingAPI/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="TODoUsingAPI/Models/Todo.cs" />
+      <File FileName="TODoUsingAPI/Controllers/TodoController.cs" Line="31" Column="1" />
+      <File FileName="TODoUsingAPI/appsettings.json" />
+      <File FileName="TODoUsingAPI/Migrations/20240128194713_initial migration.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TODoUsingAPI solution" expanded="True">
+            <Node name="TODoUsingAPI" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
